@@ -94,7 +94,7 @@
 
 "UpdateAuthorizationProgress" = "Autorisation en cours…";
 
-"UpdateAuthorizationOffline" = "Connection à internet requise.";
+"UpdateAuthorizationOffline" = "Connexion à internet requise.";
 
 "UpdateAuthorizationDenied" = "Autorisation refusée. Veuillez contacter le développeur.";
 
